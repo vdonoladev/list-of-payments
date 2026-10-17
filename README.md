@@ -35,18 +35,18 @@ touch ~/list-payers.txt
 
 1. Clone o repositório ou salve o script localmente:
 ```bash
-git clone [https://github.com/seu-usuario/company-payments-report.git](https://github.com/seu-usuario/company-payments-report.git)
-cd company-payments-report
+git clone https://github.com/vdonoladev/list-of-payments.git
+cd list-of-payments
 ```
 
 2. Conceda permissão de execução ao script:
 ```bash
-chmod +x payments.sh
+chmod +x payments-script.sh
 ```
 
 3. Execute o script:
 ```bash
-./payments.sh
+./payments-script.sh
 ```
 
 ## 💡 Estrutura dos Registros
